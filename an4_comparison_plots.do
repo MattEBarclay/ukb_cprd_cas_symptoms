@@ -7,7 +7,7 @@ local todaydate : display %tdCCYY-NN-DD = daily("`c(current_date)'", "DMY")
 
 /* A re-written version to work better */
 
-do an6_graph_data_processing.do
+do an3_graph_data_processing.do
 
 /******************************************************************************/
 /* Data setup and processing */
